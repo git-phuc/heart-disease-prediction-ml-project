@@ -207,6 +207,6 @@ README.md
 
 ## 8. Tác giả
 - **Họ tên:** Phạm Đình Phúc
-- **Mã SV:** 124231
+- **Mã SV:** 12423063
 - **Lớp:** 124231
 - **GitHub:** https://github.com/git-phuc
