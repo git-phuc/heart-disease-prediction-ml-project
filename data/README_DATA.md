@@ -32,11 +32,34 @@ Cấu trúc thư mục sau khi tải dữ liệu:
 ```text
 project_root/
 │
+├── app/
+│   ├── 0_setup.ipynb
+│   ├── 1_load_clean_split.ipynb
+│   ├── 2_eda.ipynb
+│   ├── 3_preprocess_helpers.ipynb
+│   ├── 4_baseline_oof.ipynb
+│   ├── 5_tuning.ipynb
+│   ├── 6_test_and_save.ipynb
+│   ├── 7_inference.ipynb
+│   └── README.md
+│   └── CHD_10Y_D11KS.ipynb
+│
 ├── data/
+│   ├── README_DATA.md
 │   └── d11ks.csv
-├── src/
-├── notebooks/
-└── README_DATA.md
+│
+├── demo/
+│   ├── app.py
+│
+├── reports/
+│   └── Hear-Disease-Prediction.pdf
+│
+├── slides/
+│   └── Hear-Disease-Prediction.pptx
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ---
