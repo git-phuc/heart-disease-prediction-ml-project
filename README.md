@@ -15,6 +15,27 @@
 - **Link tải:** https://www.kaggle.com/datasets/phamphucai05/d11ks-csv
 - **Note:** Dataset **không đưa trực tiếp lên GitHub**. Xem hướng dẫn tải & đặt file tại: `data/README_DATA.md`.
 
+### 2.1. Bảng mô tả dữ liệu (Data Dictionary)
+
+| STT | Tên cột | Kiểu dữ liệu | Mô tả |
+|----:|---------|--------------|------|
+| 1 | age | int | Tuổi của bệnh nhân |
+| 2 | gender | int (0/1) | Giới tính (0: nữ, 1: nam) |
+| 3 | education | int | Trình độ học vấn |
+| 4 | currentSmoker | int (0/1) | Có hút thuốc hay không |
+| 5 | cigsPerDay | float | Số điếu thuốc hút mỗi ngày |
+| 6 | BPMeds | int (0/1) | Có dùng thuốc huyết áp |
+| 7 | prevalentStroke | int (0/1) | Tiền sử đột quỵ |
+| 8 | prevalentHyp | int (0/1) | Tiền sử tăng huyết áp |
+| 9 | diabetes | int (0/1) | Có bệnh tiểu đường |
+| 10 | totChol | float | Cholesterol toàn phần |
+| 11 | sysBP | float | Huyết áp tâm thu |
+| 12 | diaBP | float | Huyết áp tâm trương |
+| 13 | BMI | float | Chỉ số khối cơ thể |
+| 14 | heartRate | float | Nhịp tim |
+| 15 | glucose | float | Glucose trong máu |
+| 16 | TenYearCHD | int (0/1) | Nhãn mục tiêu: nguy cơ mắc bệnh tim trong 10 năm |
+
 ---
 
 ## 3. Pipeline (đúng theo notebook của dự án)
