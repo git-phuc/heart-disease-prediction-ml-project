@@ -29,6 +29,7 @@ Thực hiện theo các bước sau:
 
 Cấu trúc thư mục sau khi tải dữ liệu:
 
+```text
 project_root/
 │
 ├── data/
@@ -36,6 +37,7 @@ project_root/
 ├── src/
 ├── notebooks/
 └── README_DATA.md
+
 
 ---
 
