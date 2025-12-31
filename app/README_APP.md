@@ -11,4 +11,4 @@ Thư mục `app/` chứa các notebook đã **chia nhỏ** từ notebook gốc �
 - `0_test_and_save.ipynb`: test evaluation + save `.joblib`
 - `7_inference.ipynb`: demo inference (tuỳ chọn)
 
-Chạy nhanh: mở `demo/00_RUN_ALL.ipynb` và **Run All**.
+Chạy nhanh: mở `demo/0_RUN_ALL.ipynb` và **Run All**.
