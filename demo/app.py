@@ -11,7 +11,7 @@ import gradio as gr
 # =========================================================
 ROOT_DIR = Path(__file__).resolve().parents[1]
 MODEL_DIR = ROOT_DIR / "saved_models"
-DATA_DIR  = ROOT_DIR / "Data"
+DATA_DIR  = ROOT_DIR / "data"
 
 MODEL_PATHS = {
     "RF (tuned)": MODEL_DIR / "CHD_RF_tuned.joblib",
